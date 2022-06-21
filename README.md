@@ -1,5 +1,4 @@
-# datasparsityFID
-Source code of data sparsity in cybersecurity 
+Accurate Decision-making for Network Security with Compromised Data
 
 - Scripts
 - Dataset
